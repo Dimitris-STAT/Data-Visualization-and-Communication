@@ -11,13 +11,15 @@ pandemic and associated restrictions impacted bikeshare usage patterns.
 The dataset file we used for the project is located [here](https://drive.google.com/file/d/1ZveV_4ELlc8TgksGIprv45lT2trTb8YE/view?usp=sharing) in zip format.
 
 
-This is a collaborative work of the following participants:
+This is a collaborative work, but this repo contains only my part of the work.
 
-1.[Melina]()
+Collaborators(of full project):
 
-2.[Giannis]()
+1.Melina
 
-3.[Vasilis]()
+2.[Giannis](https://github.com/johnTrs)
 
-4.[Dimitris]()
+3.[Vasilis](https://github.com/VassilisDrouzas)
+
+4.[Dimitris](https://github.com/Dimitris-STAT)
 
